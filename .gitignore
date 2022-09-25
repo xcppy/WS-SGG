@@ -1,0 +1,54 @@
+/checkpoints
+/build
+/glove
+/maskrcnn_benchmark.egg-info
+/datasets/ground_files/*
+/datasets/vg/VG-SGG-with-attri.h5
+/datasets/vg/VG_100K
+/datasets/vg/VG_detection_results_oid
+
+
+# ignore all __pycache__
+__pycache__/
+
+/fasterRCNN/lib/build/
+/fasterRCNN/models/faster_rcnn_ag.pth
+/dataloader/object_bbox_and_relationship_filtersmall.pkl
+/fasterRCNN/lib/model/_C.cpython-36m-x86_64-linux-gnu.so
+
+*.pyc
+*.o
+*.tar
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+maskrcnn_benchmark.egg-info/
+build/
+dist/
+
+# pytorch/python/numpy formats
+*.pth
+*.pkl
+*.npy
+
+# ipython/jupyter notebooks
+*.ipynb
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+
+# vscode editor settings
+.vscode
+
+# MacOS
+.DS_Store
