@@ -36,7 +36,7 @@ In this project, we primarily use the detector Faster RCNN pretrained on Open Im
 For fully supervised models, you can use the detector pretrained by [Scene-Graph-Benchmark](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch#pretrained-models). You can download this [Faster R-CNN model](https://onedrive.live.com/embed?cid=22376FFAD72C4B64&resid=22376FFAD72C4B64%21779870&authkey=AH5CPVb9g5E67iQ) and extract all the files to the directory `checkpoints/pretrained_faster_rcnn`.
 
 ## Grounding Module
-The codes for grounding module.
+The codes for grounding module can be found [here](https://github.com/ChopinSharp/ws-sgg-grounder).
 We provide generated grounding results for [VG captions](https://drive.google.com/file/d/1jVmN_woqXQ2ovfXhvfVXzK71Dn6dwu6F/view?usp=sharing).
 
 ## Pretrained Scene Graph Generation Models
