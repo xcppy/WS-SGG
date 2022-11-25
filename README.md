@@ -37,11 +37,11 @@ For fully supervised models, you can use the detector pretrained by [Scene-Graph
 
 ## Grounding Module
 The codes for grounding module can be found [here](https://github.com/ChopinSharp/ws-sgg-grounder).
-We provide generated grounding results for [VG captions](https://drive.google.com/file/d/1jVmN_woqXQ2ovfXhvfVXzK71Dn6dwu6F/view?usp=sharing).
+We provide generated [grounding results](https://drive.google.com/drive/folders/1o7h_uMRSUt9uO3FTnm97G2204cMCCsV0?usp=sharing).
 
 ## Pretrained Scene Graph Generation Models
 
-Our pretrained SGG models can be downloaded on [Google Drive](https://drive.google.com/file/d/1kjwmw1wdDnqwEsP__FrKVgiLj7rsUWxr/view?usp=sharing). The details of these models can be found in Model Training section below. After downloading, please put all the folders to the directory `checkpoints/`. 
+Our pretrained SGG models can be downloaded on [Google Drive](https://drive.google.com/drive/folders/1w9IPc-YqK-8YDlujhGJS4FEh605LrK5c?usp=sharing). The details of these models can be found in Model Training section below. After downloading, please put all the folders to the directory `checkpoints/`. 
 
 ## Model Training
 
